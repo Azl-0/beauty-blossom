@@ -177,12 +177,10 @@ body {
 
 
 
-/* ... Tu CSS actual (sin cambios) ... */
 
 
-/* ========================== */
-/*   MEDIA QUERIES - CELULAR  */
-/* ========================== */
+/*   MEDIA QUERIES   */
+
 @media (max-width: 768px) {
 
   body {
@@ -257,4 +255,5 @@ body {
     bottom: 10px;
   }
 }
+
 
