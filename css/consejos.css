@@ -156,7 +156,7 @@ body {
 }
 
 
-/* === Tablets y celulares grandes: 601px a 1024px === */
+/* */
 @media (min-width: 601px) and (max-width: 1024px) {
   .cabecera {
     flex-direction: column;
@@ -334,4 +334,5 @@ body {
   .consejo p {
     font-size: 0.85rem;
   }
+
 }
