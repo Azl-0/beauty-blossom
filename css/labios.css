@@ -244,7 +244,7 @@ body {
   }
 }
 
-/* Tablets (entre 768px y 1199px) */
+/*  */
 @media (max-width: 991px) {
   .cabecera {
     flex-direction: column;
@@ -334,4 +334,5 @@ body {
     left: 10px;
   }
 }
+
 
