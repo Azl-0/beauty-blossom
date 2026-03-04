@@ -204,7 +204,7 @@ body {
 
 
 
-/* Dispositivos pequeños (hasta 600px, celulares) */
+/* dispo celu */
 @media screen and (max-width: 600px) {
   .cabecera {
     flex-direction: column;
@@ -260,7 +260,7 @@ body {
 }
 
 
-/* Tablets (601px a 1024px) */
+/*  */
 @media screen and (min-width: 601px) and (max-width: 1024px) {
   .cabecera {
     flex-direction: column;
@@ -301,3 +301,4 @@ body {
     right: 10%;
   }
 }
+
