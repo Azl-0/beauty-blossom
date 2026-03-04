@@ -211,7 +211,7 @@ body {
 }
 
 
-/* === Celulares medianos: 481px a 600px === */
+/*celu */
 @media (min-width: 481px) and (max-width: 600px) {
   .cabecera {
     flex-direction: column;
@@ -266,7 +266,7 @@ body {
 }
 
 
-/* === Celulares pequeños: hasta 480px === */
+/*  */
 @media (max-width: 480px) {
   .cabecera {
     flex-direction: column;
@@ -336,3 +336,4 @@ body {
   }
 
 }
+
